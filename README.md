@@ -4,6 +4,8 @@ ruboty plugin for dajare.
 
 dajare from [ダジャレ集](http://linkdata.org/work/rdf1s580i), thanks for [takumi](http://user.linkdata.org/user/takami/work).
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
